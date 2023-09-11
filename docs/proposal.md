@@ -20,21 +20,24 @@
 As part of this project we will be using a course recommendation system to recommend courses to learners based on course rating, skills, course name, course description, etc. We can use content-based similarity filtering or collaborative filtering or a hybrid approach that uses both to make recommendations.
 
 ### Why does it matter?
-[Explain why your project is important or relevant.]
+The project addresses a specific problem or question relevant to a particular to online education domain. By providing solutions or insights into this problem, it has the potential to make a decent impact on that domain. This problem-solving aspect is at the core of data science's practical applications.
 
 ### What are your research questions?
-[List your research questions here, if applicable.]
+- How can we create a course recommendation system that takes into account each user's unique learning preferences and history?
+- What methods can be used to personalize course recommendations based on a user's academic or career goals?
+- How can we address the "cold-start" problem, where the system needs to recommend courses to new users with limited interaction history?
+- What strategies can be employed to make relevant recommendations to new users or users with sparse activity?
 
-## 3. Dataset Description
-Data Size: 8.72 MB
-Data Shape: 3522 rows x 7 columns
-Each Row Represents: A course on Coursera
+## 3. Data
 
-Columns and their data types:
+### Data Size : 8.72 MB
 
-<class 'pandas.core.frame.DataFrame'>
-RangeIndex: 3522 entries, 0 to 3521
-Data columns (total 7 columns):
+### Data Shape : 3522 rows x 7 columns
+
+### Each Row Represents : A course on Coursera
+
+### Columns and their data types:
+
  #   Column              Non-Null Count  Dtype 
 ---  ------              --------------  ----- 
  0   Course Name         3522 non-null   object
@@ -44,9 +47,7 @@ Data columns (total 7 columns):
  4   Course URL          3522 non-null   object
  5   Course Description  3522 non-null   object
  6   Skills              3522 non-null   object
-dtypes: object(7)
-memory usage: 192.7+ KB
-None
+ 
+### Target/Label Variable : User_Rating
 
-Target/Label Variable: User_Rating
-Feature/Predictor Columns : To be extracted from the existing columns (Course Name, Course Description, Course Rating)
+### Features/Predictors : To be extracted from the existing columns (Course Name, Course Description, Course Rating, Skills)
