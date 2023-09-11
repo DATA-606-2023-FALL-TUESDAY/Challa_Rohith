@@ -25,12 +25,7 @@ As part of this project we will be using a course recommendation system to recom
 ### What are your research questions?
 [List your research questions here, if applicable.]
 
-
-
-
-
-
-##3. Dataset Description
+## 3. Dataset Description
 Data Size: 8.72 MB
 Data Shape: 3522 rows x 7 columns
 Each Row Represents: A course on Coursera
