@@ -22,7 +22,7 @@ As part of this project we will be using a course recommendation system to recom
 ### Why does it matter?
 The project addresses a specific problem or question relevant to a particular to online education domain. By providing solutions or insights into this problem, it has the potential to make a decent impact on that domain. This problem-solving aspect is at the core of data science's practical applications.
 
-### What are your research questions?
+### Some of the Research questions that will be addressed
 - How can we create a course recommendation system that takes into account each user's unique learning preferences and history?
 - What methods can be used to personalize course recommendations based on a user's academic or career goals?
 - How can we address the "cold-start" problem, where the system needs to recommend courses to new users with limited interaction history?
