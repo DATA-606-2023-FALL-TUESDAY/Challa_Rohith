@@ -8,7 +8,7 @@
 
 **GitHub Profile:** ![GitHub](https://github.com/rohithrc6)
 
-**LinkedIn Profile:** ![LinkedIn](https://www.linkedin.com/in/rohith-challa-82868a193/)
+**LinkedIn Profile:** ![LinkedIn](https://www.linkedin.com/in/rohith-challa-82868a193)
 
 **PowerPoint Presentation:** [Link to PowerPoint presentation file]
 
@@ -30,11 +30,14 @@ The project addresses a specific problem or question relevant to a particular to
 
 ## 3. Data
 
-### Data Size : 8.72 MB
+### Data Size
+8.72 MB
 
-### Data Shape : 3522 rows x 7 columns
+### Data Shape
+3522 rows x 7 columns
 
-### Each Row Represents : A course on Coursera
+### Each Row Represents
+A course on Coursera
 
 ### Columns Details:
 
@@ -48,6 +51,8 @@ The project addresses a specific problem or question relevant to a particular to
 | Course Description | 3522 non-null  | object|
 | Skills             | 3522 non-null  | object|
  
-### Target/Label Variable : User_Rating
+### Target/Label Variable
+User_Rating
 
-### Features/Predictors : To be extracted from the existing columns (Course Name, Course Description, Course Rating, Skills)
+### Features/Predictors
+To be extracted from the existing columns (Course Name, Course Description, Course Rating, Skills)
