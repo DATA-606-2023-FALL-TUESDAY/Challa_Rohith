@@ -30,6 +30,10 @@ The project addresses a specific problem or question relevant to a particular to
 
 ## 3. Data
 
+### Data Source
+
+https://www.kaggle.com/datasets/khusheekapoor/coursera-courses-dataset-2021
+
 ### Data Size
 8.72 MB
 
