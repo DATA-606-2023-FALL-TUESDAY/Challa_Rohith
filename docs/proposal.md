@@ -1,4 +1,36 @@
+## 1. Title and Author
 
+**Project Title:** Coursera Course Recommendation System
+
+**Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang**
+
+**Author Name:** Rohith Challa
+
+**GitHub Profile:** ![GitHub](https://github.com/rohithrc6)
+
+**LinkedIn Profile:** ![LinkedIn](https://www.linkedin.com/in/rohith-challa-82868a193/)
+
+**PowerPoint Presentation:** [Link to PowerPoint presentation file]
+
+**YouTube Video:** [Link to YouTube video]
+
+## 2. Background
+
+### What is it about?
+As part of this project we will be using a course recommendation system to recommend courses to learners based on course rating, skills, course name, course description, etc. We can use content-based similarity filtering or collaborative filtering or a hybrid approach that uses both to make recommendations.
+
+### Why does it matter?
+[Explain why your project is important or relevant.]
+
+### What are your research questions?
+[List your research questions here, if applicable.]
+
+
+
+
+
+
+##3. Dataset Description
 Data Size: 8.72 MB
 Data Shape: 3522 rows x 7 columns
 Each Row Represents: A course on Coursera
