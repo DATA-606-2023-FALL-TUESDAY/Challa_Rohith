@@ -38,15 +38,15 @@ The project addresses a specific problem or question relevant to a particular to
 
 ### Columns and their data types:
 
- #   Column              Non-Null Count  Dtype 
----  ------              --------------  ----- 
- 0   Course Name         3522 non-null   object
- 1   University          3522 non-null   object
- 2   Difficulty Level    3522 non-null   object
- 3   Course Rating       3522 non-null   object
- 4   Course URL          3522 non-null   object
- 5   Course Description  3522 non-null   object
- 6   Skills              3522 non-null   object
+| Column             | Non-Null Count | Dtype  |
+|--------------------|----------------|-------|
+| Course Name        | 3522 non-null  | object|
+| University         | 3522 non-null  | object|
+| Difficulty Level   | 3522 non-null  | object|
+| Course Rating      | 3522 non-null  | object|
+| Course URL         | 3522 non-null  | object|
+| Course Description | 3522 non-null  | object|
+| Skills             | 3522 non-null  | object|
  
 ### Target/Label Variable : User_Rating
 
