@@ -6,9 +6,9 @@
 
 **Author Name:** Rohith Challa
 
-**GitHub Profile:** ![GitHub](https://github.com/rohithrc6)
+**GitHub Profile:** [GitHub](https://github.com/rohithrc6)
 
-**LinkedIn Profile:** ![LinkedIn](https://www.linkedin.com/in/rohith-challa-82868a193)
+**LinkedIn Profile:** [LinkedIn](https://www.linkedin.com/in/rohith-challa-82868a193)
 
 **PowerPoint Presentation:** [Link to PowerPoint presentation file]
 
