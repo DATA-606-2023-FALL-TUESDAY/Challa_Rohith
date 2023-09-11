@@ -36,7 +36,7 @@ The project addresses a specific problem or question relevant to a particular to
 
 ### Each Row Represents : A course on Coursera
 
-### Columns and their data types:
+### Columns Details:
 
 | Column             | Non-Null Count | Dtype  |
 |--------------------|----------------|-------|
