@@ -56,7 +56,7 @@ A course on Coursera
 | Skills             | 3522 non-null  | object|
  
 ### Target/Label Variable
-User_Rating
+There is no target variable as this is a recommendation system.
 
 ### Features/Predictors
 To be extracted from the existing columns (Course Name, Course Description, Course Rating, Skills)
