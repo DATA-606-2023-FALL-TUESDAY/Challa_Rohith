@@ -24,6 +24,7 @@ The project addresses a specific problem or question relevant to a particular to
 
 ### Some of the Research questions that will be addressed
 - How can we create a course recommendation system that takes into account each user's unique learning preferences and history?
+
 - What methods can be used to personalize course recommendations based on a user's academic or career goals?
 - How can we address the "cold-start" problem, where the system needs to recommend courses to new users with limited interaction history?
 - What strategies can be employed to make relevant recommendations to new users or users with sparse activity?
@@ -38,12 +39,15 @@ https://www.kaggle.com/datasets/khusheekapoor/coursera-courses-dataset-2021
 8.72 MB
 
 ### Data Shape
-3522 rows x 7 columns
+Before Data Cleaning - 3522 rows x 7 columns
+After Data Cleaning - 3392 rows x 8 columns
 
 ### Each Row Represents
 A course on Coursera
 
 ### Columns Details:
+
+Before Data Cleaning:
 
 | Column             | Non-Null Count | Dtype  |
 |--------------------|----------------|-------|
@@ -54,9 +58,22 @@ A course on Coursera
 | Course URL         | 3522 non-null  | object|
 | Course Description | 3522 non-null  | object|
 | Skills             | 3522 non-null  | object|
+
+After Data Cleaning:
+
+| Column             | Non-Null Count | Dtype  |
+|--------------------|----------------|-------|
+| Index              | 3392 non-null  | int64|
+| Course Name        | 3392 non-null  | object|
+| University         | 3392 non-null  | object|
+| Difficulty Level   | 3392 non-null  | object|
+| Course Rating      | 3392 non-null  | object|
+| Course URL         | 3392 non-null  | object|
+| Course Description | 3392 non-null  | object|
+| Skills             | 3392 non-null  | object|
  
 ### Target/Label Variable
 There is no target variable as this is a recommendation system.
 
 ### Features/Predictors
-To be extracted from the existing columns (Course Name, Course Description, Course Rating, Skills)
+Features used for recommendation - Course Name, Course Description, Difficulty Level, Skills
