@@ -40,6 +40,7 @@ https://www.kaggle.com/datasets/khusheekapoor/coursera-courses-dataset-2021
 
 ### Data Shape
 Before Data Cleaning - 3522 rows x 7 columns
+
 After Data Cleaning - 3392 rows x 8 columns
 
 ### Each Row Represents
@@ -67,7 +68,7 @@ After Data Cleaning:
 | Course Name        | 3392 non-null  | object|
 | University         | 3392 non-null  | object|
 | Difficulty Level   | 3392 non-null  | object|
-| Course Rating      | 3392 non-null  | object|
+| Course Rating      | 3392 non-null  | float64|
 | Course URL         | 3392 non-null  | object|
 | Course Description | 3392 non-null  | object|
 | Skills             | 3392 non-null  | object|
