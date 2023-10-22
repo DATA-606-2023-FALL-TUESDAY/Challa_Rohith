@@ -41,7 +41,6 @@ https://www.kaggle.com/datasets/khusheekapoor/coursera-courses-dataset-2021
 ### Data Shape
 Before Data Cleaning - 3522 rows x 7 columns
 
-
 After Data Cleaning - 3392 rows x 8 columns
 
 ### Each Row Represents
@@ -79,3 +78,29 @@ There is no target variable as this is a recommendation system.
 
 ### Features/Predictors
 Features used for recommendation - Course Name, Course Description, Difficulty Level, Skills
+
+## 4. EDA
+
+### Data Cleansing and Preparation
+
+In this recommendation system to perform data preprocessing and feature extraction we import the necessary libraries and then perform vectorization and stemming processes. We perform these two tasks on the column 'Tokens', which is a combination of columns 'Course Name', 'Course Description', 'Skills', and 'Difficulty Level'. So in order to make the data ready for these tasks we remove all the special characters (like,(,),-, etc.) in between words from the four columns mentioned in the previous statement and then make sure that they are only seperated by single spaces. Then we concat the four columns into a new column called 'Tokens'. With this the data is ready for vectorization and stemming processes. We perform these two tasks on a new data frame called 'CourseData.
+
+### Visualizations and Interpretations
+
+- Universities CertNexus, SV Academy, and Karlsruhe Institute for Technology have the highest course ratings.
+- Universities Universidad Nacional Autnoma de Mxico, Carnegie Mellon University, and Yandex have the lowest course ratings.
+- Courses from almost all difficulty levels have average course rating of 4.5
+- Number of courses by difficulty level
+
+| Difficulty Level| Count| 
+|-----------------|------|
+| Beginner        | 1425 | 
+| Advanced        | 969  |
+| Intermediate    | 823  |
+| Conversant      | 175  |
+
+![image](https://github.com/DATA-606-2023-FALL-TUESDAY/Challa_Rohith/assets/97656473/c66da3fb-8e23-440a-a3d9-414c65033f36)
+
+Most of the courses are of beginner level and rest of them mostly being advanced and intermediate.
+
+Due to the nature of the dataset, there is relatively less scope for visualizations and interpretations.
