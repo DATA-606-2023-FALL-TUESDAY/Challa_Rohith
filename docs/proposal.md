@@ -83,7 +83,7 @@ Features used for recommendation - Course Name, Course Description, Difficulty L
 
 ### Data Cleansing and Preparation
 
-In this recommendation system to perform data preprocessing and feature extraction we import the necessary libraries and then perform vectorization and stemming processes. We perform these two tasks on the column 'Tokens', which is a combination of columns 'Course Name', 'Course Description', 'Skills', and 'Difficulty Level'. So in order to make the data ready for these tasks we remove all the special characters (like,(,),-, etc.) in between words from the four columns mentioned in the previous statement and then make sure that they are only seperated by single spaces. Then we concat the four columns into a new column called 'Tokens'. With this the data is ready for vectorization and stemming processes. We perform these two tasks on a new data frame called 'CourseData.
+In this recommendation system to perform data preprocessing and feature extraction we import the necessary libraries and then perform vectorization and stemming processes. We perform these two tasks on the column 'Tokens', which is a combination of columns 'Course Name', 'Course Description', 'Skills', and 'Difficulty Level'. So in order to make the data ready for these tasks we remove all the special characters (like,(,),-, etc.) in between words from the four columns mentioned in the previous statement and then make sure that they are only seperated by single spaces. Then we concat the four columns into a new column called 'Tokens'. With this the data is ready for vectorization and stemming processes. We perform these two tasks on a new data frame called 'CourseData'.
 
 ### Visualizations and Interpretations
 
