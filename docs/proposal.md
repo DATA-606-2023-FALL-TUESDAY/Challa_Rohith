@@ -41,6 +41,7 @@ https://www.kaggle.com/datasets/khusheekapoor/coursera-courses-dataset-2021
 ### Data Shape
 Before Data Cleaning - 3522 rows x 7 columns
 
+
 After Data Cleaning - 3392 rows x 8 columns
 
 ### Each Row Represents
