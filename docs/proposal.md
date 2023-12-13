@@ -113,4 +113,4 @@ Due to the nature of the dataset, there is relatively less scope for visualizati
 - Development environment - Google CoLab
 
 ## 6. Application of the Model
-For a given course of interest, it recommends courses along with their course ratings and difficulty levels.![image](https://github.com/DATA-606-2023-FALL-TUESDAY/Challa_Rohith/assets/97656473/c6d4822b-4414-4388-af7f-3a260b7fa9fa)
+For a given course of interest, it recommends courses along with their course ratings and difficulty levels.![image]([https://github.com/DATA-606-2023-FALL-TUESDAY/Challa_Rohith/assets/97656473/c6d4822b-4414-4388-af7f-3a260b7fa9fa](https://github.com/DATA-606-2023-FALL-TUESDAY/Challa_Rohith/blob/main/docs/WebApp_SS.png)https://github.com/DATA-606-2023-FALL-TUESDAY/Challa_Rohith/blob/main/docs/WebApp_SS.png)
