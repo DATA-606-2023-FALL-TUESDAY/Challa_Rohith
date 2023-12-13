@@ -109,7 +109,5 @@ Due to the nature of the dataset, there is relatively less scope for visualizati
 
 - Model - Item-based collaborative filtering
 - Training - Computed cosine-similarity matrix to obtain the correlation coefficients of all the courses with each other.
-Train vs test split (80/20, 70/30, etc.)
-Python packages to be used (scikit-learn, NLTK, spaCy, etc.)
-The development environments (your laptop, Google CoLab, GitHub CodeSpaces, etc.)
-How will you measure and compare the performance of the models?
+- Python packages - pandas, numpy, pickle, matplotlib, nltk, scikit-learn
+- Development environment - Google CoLab
