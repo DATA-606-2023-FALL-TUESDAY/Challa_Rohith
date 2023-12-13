@@ -114,3 +114,8 @@ Due to the nature of the dataset, there is relatively less scope for visualizati
 
 ## 6. Application of the Model
 For a given course of interest, it recommends courses along with their course ratings and difficulty levels.![image](https://github.com/DATA-606-2023-FALL-TUESDAY/Challa_Rohith/blob/main/docs/WebApp_SS.png)
+
+## 7. Conclusion
+
+- Summary - The presented work involves the development of a Coursera Course Recommendation System. It includes data cleaning, analysis, and visualization to derive insights into universities, course ratings, and difficulty levels. The pre-processing step involves tokenization, stemming, and vectorization of course data, enabling the computation of cosine similarity for course recommendations. paraphrase.
+- Limitations - 
