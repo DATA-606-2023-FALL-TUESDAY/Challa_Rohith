@@ -83,7 +83,7 @@ Features used for recommendation - Course Name, Course Description, Difficulty L
 
 ### Data Cleansing and Preparation
 
-In this recommendation system to perform data preprocessing and feature extraction we import the necessary libraries and then perform vectorization and stemming processes. We perform these two tasks on the column 'Tokens', which is a combination of columns 'Course Name', 'Course Description', 'Skills', and 'Difficulty Level'. So in order to make the data ready for these tasks we remove all the special characters (like,(,),-, etc.) in between words from the four columns mentioned in the previous statement and then make sure that they are only separated by single spaces. Then we concat the four columns into a new column called 'Tokens'. With this the data is ready for vectorization and stemming processes. We perform these two tasks on a new data frame called 'CourseData'.
+In this recommendation system to perform data preprocessing and feature extraction we import the necessary libraries and then perform vectorization and stemming processes. We perform these two tasks on the column 'Tokens', which is a combination of columns 'Course Name', 'Course Description', 'Skills', and 'Difficulty Level'. So to make the data ready for these tasks we remove all the special characters (like,(,),-, etc.) in between words from the four columns mentioned in the previous statement and then make sure that they are only separated by single spaces. Then we concat the four columns into a new column called 'Tokens'. With this, the data is ready for vectorization and stemming processes. We perform these two tasks on a new data frame called 'CourseData'.
 
 ### Visualizations and Interpretations
 
@@ -113,7 +113,7 @@ Due to the nature of the dataset, there is relatively less scope for visualizati
 - Development environment - Google CoLab
 
 ## 6. Application of the Model
-For a given course of interest, it recommends courses along with their course ratings and difficulty levels.![image](https://github.com/DATA-606-2023-FALL-TUESDAY/Challa_Rohith/blob/main/docs/WebApp_SS.png)
+Below is a screenshot from the web application that was developed using Streamlit. For a given course of interest, it recommends courses along with their course ratings and difficulty levels.![image](https://github.com/DATA-606-2023-FALL-TUESDAY/Challa_Rohith/blob/main/docs/WebApp_SS.png)
 
 ## 7. Conclusion
 
@@ -124,6 +124,6 @@ The Coursera Course Recommendation System serves as a valuable tool for learners
 ### Limitations
 While the system offers personalized recommendations, it relies on user interaction data, which may introduce biases. Additionally, the system's effectiveness could be influenced by the availability and quality of data. Acknowledging these limitations is crucial for managing user expectations.
 ### Lessons Learned
-The data cleaning and pre-processing steps are critical for building a robust recommendation system. Handling Inaccurate values, data types, and removing non-alphabetic characters are key aspects of preparing the data. Stemming and vectorization contribute to the effectiveness of the recommendation algorithm.
+The data cleaning and pre-processing steps are critical for building a robust recommendation system. Handling Inaccurate values, and data types, and removing non-alphabetic characters are key aspects of preparing the data. Stemming and vectorization contribute to the effectiveness of the recommendation algorithm.
 ### Future Research Direction
 Future research can explore advanced recommendation techniques, considering additional features such as course content or user demographics. Addressing biases and improving the handling of new courses could enhance the system's accuracy. Exploring emerging technologies or methodologies in recommendation systems is also a potential avenue for future research.
