@@ -108,6 +108,7 @@ Due to the nature of the dataset, there is relatively less scope for visualizati
 ## 5. Model
 
 - Model: Item-based collaborative filtering, stemming, and vectorization
+
 Implemented stemming and vectorization NLP techniques using the NLTK module. Made use of the Porter Stemmer module to create a stemming function that takes a token (a string of words) and applies stemming to each word in the token. The 'Tokens' column in 'courseData' dataframe undergoes stemming to ensure consistency in word representation. The Scikit-learn library's CountVectorizer is utilized to convert the text data into a document-term matrix. A maximum of 20,000 features (words) is set to capture a wide range of vocabulary.
 The 'Tokens' column in 'courseData' is transformed into a numerical format suitable for machine learning models.
 - Training: Computed cosine-similarity matrix to obtain the correlation coefficients of all the courses with each other.
