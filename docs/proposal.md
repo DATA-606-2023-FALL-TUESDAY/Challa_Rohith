@@ -117,5 +117,13 @@ For a given course of interest, it recommends courses along with their course ra
 
 ## 7. Conclusion
 
-- Summary - The presented work involves the development of a Coursera Course Recommendation System. It includes data cleaning, analysis, and visualization to derive insights into universities, course ratings, and difficulty levels. The pre-processing step involves tokenization, stemming, and vectorization of course data, enabling the computation of cosine similarity for course recommendations. paraphrase.
-- Limitations - 
+### Summary
+The presented work involves the development of a Coursera Course Recommendation System. It includes data cleaning, analysis, and visualization to derive insights into universities, course ratings, and difficulty levels. The pre-processing step involves tokenization, stemming, and vectorization of course data, enabling the computation of cosine similarity for course recommendations. paraphrase.
+### Potential Application
+The Coursera Course Recommendation System serves as a valuable tool for learners, providing personalized course suggestions based on user input. This can significantly enhance the user experience on the platform, making course discovery more tailored and efficient.
+### Limitations
+While the system offers personalized recommendations, it relies on user interaction data, which may introduce biases. Additionally, the system's effectiveness could be influenced by the availability and quality of data. Acknowledging these limitations is crucial for managing user expectations.
+### Lessons Learned
+The data cleaning and pre-processing steps are critical for building a robust recommendation system. Handling Inaccurate values, data types, and removing non-alphabetic characters are key aspects of preparing the data. Stemming and vectorization contribute to the effectiveness of the recommendation algorithm.
+### Future Research Direction
+Future research can explore advanced recommendation techniques, considering additional features such as course content or user demographics. Addressing biases and improving the handling of new courses could enhance the system's accuracy. Exploring emerging technologies or methodologies in recommendation systems is also a potential avenue for future research.
