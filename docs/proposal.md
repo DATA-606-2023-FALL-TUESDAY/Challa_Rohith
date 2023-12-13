@@ -83,13 +83,13 @@ Features used for recommendation - Course Name, Course Description, Difficulty L
 
 ### Data Cleansing and Preparation
 
-In this recommendation system to perform data preprocessing and feature extraction we import the necessary libraries and then perform vectorization and stemming processes. We perform these two tasks on the column 'Tokens', which is a combination of columns 'Course Name', 'Course Description', 'Skills', and 'Difficulty Level'. So in order to make the data ready for these tasks we remove all the special characters (like,(,),-, etc.) in between words from the four columns mentioned in the previous statement and then make sure that they are only seperated by single spaces. Then we concat the four columns into a new column called 'Tokens'. With this the data is ready for vectorization and stemming processes. We perform these two tasks on a new data frame called 'CourseData'.
+In this recommendation system to perform data preprocessing and feature extraction we import the necessary libraries and then perform vectorization and stemming processes. We perform these two tasks on the column 'Tokens', which is a combination of columns 'Course Name', 'Course Description', 'Skills', and 'Difficulty Level'. So in order to make the data ready for these tasks we remove all the special characters (like,(,),-, etc.) in between words from the four columns mentioned in the previous statement and then make sure that they are only separated by single spaces. Then we concat the four columns into a new column called 'Tokens'. With this the data is ready for vectorization and stemming processes. We perform these two tasks on a new data frame called 'CourseData'.
 
 ### Visualizations and Interpretations
 
 - Universities CertNexus, SV Academy, and Karlsruhe Institute for Technology have the highest course ratings.
 - Universities Universidad Nacional Autnoma de Mxico, Carnegie Mellon University, and Yandex have the lowest course ratings.
-- Courses from almost all difficulty levels have average course rating of 4.5
+- Courses from almost all difficulty levels have an average course rating of 4.5
 - Number of courses by difficulty level
 
 | Difficulty Level| Count| 
@@ -101,6 +101,15 @@ In this recommendation system to perform data preprocessing and feature extracti
 
 ![image](https://github.com/DATA-606-2023-FALL-TUESDAY/Challa_Rohith/assets/97656473/c66da3fb-8e23-440a-a3d9-414c65033f36)
 
-Most of the courses are of beginner level and rest of them mostly being advanced and intermediate.
+Most of the courses are beginner level and the rest of them mostly being advanced and intermediate.
 
 Due to the nature of the dataset, there is relatively less scope for visualizations and interpretations.
+
+## 5. Model
+
+- Model - Item-based collaborative filtering
+- Training - Computed cosine-similarity matrix to obtain the correlation coefficients of all the courses with each other.
+Train vs test split (80/20, 70/30, etc.)
+Python packages to be used (scikit-learn, NLTK, spaCy, etc.)
+The development environments (your laptop, Google CoLab, GitHub CodeSpaces, etc.)
+How will you measure and compare the performance of the models?
