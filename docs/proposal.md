@@ -10,7 +10,7 @@
 
 **LinkedIn Profile:** [LinkedIn](https://www.linkedin.com/in/rohith-challa-82868a193)
 
-**PowerPoint Presentation:** [Link to PowerPoint presentation file]
+**PowerPoint Presentation:** [PowerPoint](https://umbc-my.sharepoint.com/:p:/g/personal/zi04298_umbc_edu/Ef1P7UHI409KiwKNRikpmu4BV8nrP8RLuXJIaC5ELKSVdw?e=Qltg6v)
 
 **YouTube Video:** [Link to YouTube video]
 
