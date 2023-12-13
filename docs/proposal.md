@@ -127,3 +127,7 @@ While the system offers personalized recommendations, it relies on user interact
 The data cleaning and pre-processing steps are critical for building a robust recommendation system. Handling Inaccurate values, and data types, and removing non-alphabetic characters are key aspects of preparing the data. Stemming and vectorization contribute to the effectiveness of the recommendation algorithm.
 ### Future Research Direction
 Future research can explore advanced recommendation techniques, considering additional features such as course content or user demographics. Addressing biases and improving the handling of new courses could enhance the system's accuracy. Exploring emerging technologies or methodologies in recommendation systems is also a potential avenue for future research.
+
+## 8. References
+
+- https://www.kaggle.com/code/sagarbapodara/coursera-course-recommendation-system-webapp
