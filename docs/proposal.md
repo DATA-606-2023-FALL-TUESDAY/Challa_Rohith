@@ -101,7 +101,7 @@ In this recommendation system to perform data preprocessing and feature extracti
 
 ![image](https://github.com/DATA-606-2023-FALL-TUESDAY/Challa_Rohith/assets/97656473/c66da3fb-8e23-440a-a3d9-414c65033f36)
 
-Most of the courses are beginner level and the rest of them mostly being advanced and intermediate.
+Most of the courses are beginner-level level and the rest of them mostly being advanced and intermediate.
 
 Due to the nature of the dataset, there is relatively less scope for visualizations and interpretations.
 
@@ -111,3 +111,6 @@ Due to the nature of the dataset, there is relatively less scope for visualizati
 - Training - Computed cosine-similarity matrix to obtain the correlation coefficients of all the courses with each other.
 - Python packages - pandas, numpy, pickle, matplotlib, nltk, scikit-learn
 - Development environment - Google CoLab
+
+## 6. Application of the Model
+For a given course of interest, it recommends courses along with their course ratings and difficulty levels.![image](https://github.com/DATA-606-2023-FALL-TUESDAY/Challa_Rohith/assets/97656473/c6d4822b-4414-4388-af7f-3a260b7fa9fa)
