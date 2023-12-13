@@ -10,7 +10,7 @@
 
 **LinkedIn Profile:** [LinkedIn](https://www.linkedin.com/in/rohith-challa-82868a193)
 
-**PowerPoint Presentation:** [PowerPoint](docs/Project Presentation.pptx)
+**PowerPoint Presentation:** [PowerPoint](https://github.com/DATA-606-2023-FALL-TUESDAY/Challa_Rohith/blob/main/docs/Project%20Presentation.pptx)
 
 **YouTube Video:** [Link to YouTube video]
 
