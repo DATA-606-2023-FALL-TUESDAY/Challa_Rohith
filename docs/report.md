@@ -136,3 +136,5 @@ Future research can explore advanced recommendation techniques, considering addi
 ## 8. References
 
 - https://www.kaggle.com/code/sagarbapodara/coursera-course-recommendation-system-webapp
+
+[![References](https://img.shields.io/badge/-References-9cf?style=flat)](https://www.kaggle.com/code/sagarbapodara/coursera-course-recommendation-system-webapp)
