@@ -120,6 +120,12 @@ Implemented stemming and vectorization NLP techniques using the NLTK module. Mad
 ## 6. Application of the Model
 Below is a screenshot from the web application that was developed using Streamlit. For a given course of interest, it recommends courses along with their course ratings and difficulty levels.![image](https://github.com/DATA-606-2023-FALL-TUESDAY/Challa_Rohith/blob/main/docs/WebApp_SS.png)
 
+### Instructions to run the web page:
+
+1. Download all the necessary files: Coursera.csv, courses.pkl, coursesFull.pkl, similarity.pkl, web_app.ipynb, courseimage.jpeg, web_app_script1.py
+2. Run the web_app notebook and open the URL in the last cell (the link next to 'your url is'), and then paste the IP obtained in the last but one cell in the appropriate field of the URL mentioned previously.
+3. Make sure to install the streamlit package before executing the web_app notebook.
+
 ## 7. Conclusion
 
 ### Summary
@@ -135,6 +141,4 @@ Future research can explore advanced recommendation techniques, considering addi
 
 ## 8. References
 
-- https://www.kaggle.com/code/sagarbapodara/coursera-course-recommendation-system-webapp
-
-[![References](https://img.shields.io/badge/-References-9cf?style=flat)](https://www.kaggle.com/code/sagarbapodara/coursera-course-recommendation-system-webapp)
+- [![References](https://img.shields.io/badge/-References-9cf?style=flat)](https://www.kaggle.com/code/sagarbapodara/coursera-course-recommendation-system-webapp)
