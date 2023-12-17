@@ -14,7 +14,7 @@
 
 [![PPT](https://img.shields.io/badge/-PowerPoint%20Presentation-B7472A?logo=microsoftpowerpoint&style=flat)](https://github.com/DATA-606-2023-FALL-TUESDAY/Challa_Rohith/blob/main/docs/Project%20Presentation.pptx)
 
-[![YouTube Presentation](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&style=flat)](https://youtu.be/L3OfajGpx7M)
+[![YouTube Presentation](https://img.shields.io/badge/-YouTube%20WebApp%20Working%20Demo-FF0000?logo=youtube&style=flat)](https://youtu.be/L3OfajGpx7M)
 
 
 ## 2. Background
@@ -33,8 +33,6 @@ The project addresses a specific problem or question relevant to a particular on
 - What strategies can be employed to make relevant recommendations to new users or users with sparse activity?
 
 ## 3. Data
-
-### Data Source
 
 [![Data Source](https://img.shields.io/badge/-Data%20Source-1E90FF&style=flat)](https://www.kaggle.com/datasets/khusheekapoor/coursera-courses-dataset-2021)
 
