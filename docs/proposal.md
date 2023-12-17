@@ -12,7 +12,7 @@
 
 **PowerPoint Presentation:** [PowerPoint](https://github.com/DATA-606-2023-FALL-TUESDAY/Challa_Rohith/blob/main/docs/Project%20Presentation.pptx)
 
-**YouTube Video:** [YouTube Video]
+**YouTube Video:** [YouTube Video](https://youtu.be/L3OfajGpx7M)
 
 ## 2. Background
 
