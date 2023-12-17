@@ -12,7 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-1E90FF?logo=linkedin&style=flat)](https://www.linkedin.com/in/rohith-challa-82868a193)
 
-[![PPT](https://img.shields.io/badge/-PowerPoint%20Presentation%20Download-B7472A?logo=microsoftpowerpoint&style=flat)](https://github.com/DATA-606-2023-FALL-TUESDAY/Challa_Rohith/blob/main/docs/Project%20Presentation.pptx)
+[![PPT](https://img.shields.io/badge/-PowerPoint%20Presentation-B7472A?logo=microsoftpowerpoint&style=flat)](https://github.com/DATA-606-2023-FALL-TUESDAY/Challa_Rohith/blob/main/docs/Project%20Presentation.pptx)
 
 [![YouTube Presentation](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&style=flat)](https://youtu.be/L3OfajGpx7M)
 
@@ -36,7 +36,7 @@ The project addresses a specific problem or question relevant to a particular on
 
 ### Data Source
 
-[![Data Source](https://img.shields.io/badge/Data%20Source&style=flat)](https://www.kaggle.com/datasets/khusheekapoor/coursera-courses-dataset-2021)
+[![Data Source](https://img.shields.io/badge/-Data%20Source-1E90FF&style=flat)](https://www.kaggle.com/datasets/khusheekapoor/coursera-courses-dataset-2021)
 
 
 ### Data Size
