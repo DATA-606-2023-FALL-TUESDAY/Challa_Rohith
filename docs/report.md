@@ -8,7 +8,7 @@
 
 **Author Name:** Rohith Challa
 
-[![GitHub Repo](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat)](https://github.com/DATA-606-2023-FALL-TUESDAY/Challa_Rohith)
+[![GitHub Repo](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat)](https://github.com/rohithrc6)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-1E90FF?logo=linkedin&style=flat)](https://www.linkedin.com/in/rohith-challa-82868a193)
 
