@@ -123,7 +123,7 @@ Below is a screenshot from the web application that was developed using Streamli
 
 1. Download all the necessary files: Course Recommendation System.ipynb, Coursera.csv, courses.pkl, coursesFull.pkl, similarity.pkl, web_app.ipynb, courseimage.jpeg, web_app_script1.py
 
-Note: all the files except similarity.pkl are available in the docs folder of this repository. The 'similarity.pkl' file can be downloaded  after executing the main notebook 'Course Recommendation System.ipynb'.
+Note: All the files except similarity.pkl are available in the docs folder of this repository. The 'similarity.pkl' file can be downloaded  after executing the main notebook 'Course Recommendation System.ipynb'.
 
 2. Run the web_app notebook and open the URL in the last cell (the link next to 'your url is'), and then paste the IP obtained in the last but one cell in the appropriate field of the URL mentioned previously.
 3. Make sure to install the streamlit package before executing the web_app notebook.
