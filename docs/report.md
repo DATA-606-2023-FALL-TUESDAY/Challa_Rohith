@@ -14,7 +14,7 @@
 
 <a href="https://github.com/DATA-606-2023-FALL-TUESDAY/Challa_Rohith/blob/main/docs/Project%20Presentation.pptx"><img src="https://img.shields.io/badge/-PowerPoint Presentation Download-B7472A?logo=microsoftpowerpoint&style=flat" alt="icon | GitHub"/></a> <br>
 
-<a href="https://youtu.be/L3OfajGpx7M"><img align="left" src="https://img.shields.io/badge/-YouTube Presentation-FF0000?logo=youtube&style=flat" alt="icon | YouTube"/></a> <be>
+<a href="https://youtu.be/L3OfajGpx7M"><img align="left" src="https://img.shields.io/badge/-YouTube Presentation-FF0000?logo=youtube&style=flat" alt="icon | YouTube"/></a> <br>
 
 [![GitHub Repo](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat)](https://github.com/DATA-606-2023-FALL-TUESDAY/Challa_Rohith)
 
