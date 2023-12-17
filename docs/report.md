@@ -8,19 +8,11 @@
 
 **Author Name:** Rohith Challa
 
-<a href="https://github.com/DATA-606-2023-FALL-TUESDAY/Challa_Rohith"><img align="left" src="https://img.shields.io/badge/-Project GitHub Repo-181717?logo=github&style=flat" alt="icon | GitHub"/></a> <br>
-  
-<a href="https://www.linkedin.com/in/rohith-challa-82868a193"><img align="left" src="https://img.shields.io/badge/-LinkedIn: Lets Connect!-1E90FF?logo=linkedin&style=flat" alt="icon | LinkedIn"/></a> <br>
-
-<a href="https://github.com/DATA-606-2023-FALL-TUESDAY/Challa_Rohith/blob/main/docs/Project%20Presentation.pptx"><img src="https://img.shields.io/badge/-PowerPoint Presentation Download-B7472A?logo=microsoftpowerpoint&style=flat" alt="icon | GitHub"/></a> <br>
-
-<a href="https://youtu.be/L3OfajGpx7M"><img align="left" src="https://img.shields.io/badge/-YouTube Presentation-FF0000?logo=youtube&style=flat" alt="icon | YouTube"/></a> <br>
-
 [![GitHub Repo](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat)](https://github.com/DATA-606-2023-FALL-TUESDAY/Challa_Rohith)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-1E90FF?logo=linkedin&style=flat)](https://www.linkedin.com/in/rohith-challa-82868a193)
 
-[![PPT Download](https://img.shields.io/badge/-PowerPoint%20Presentation%20Download-B7472A?logo=microsoftpowerpoint&style=flat)](https://github.com/DATA-606-2023-FALL-TUESDAY/Challa_Rohith/blob/main/docs/Project%20Presentation.pptx)
+[![PPT](https://img.shields.io/badge/-PowerPoint%20Presentation%20Download-B7472A?logo=microsoftpowerpoint&style=flat)](https://github.com/DATA-606-2023-FALL-TUESDAY/Challa_Rohith/blob/main/docs/Project%20Presentation.pptx)
 
 [![YouTube Presentation](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&style=flat)](https://youtu.be/L3OfajGpx7M)
 
